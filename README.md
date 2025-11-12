@@ -39,4 +39,3 @@ Aqui você encontra o conteúdo completo das **Aulas 1 a 29**, organizadas em or
 ---
 
 📅 **Autor:** [DevDanielZanata](https://github.com/DevDanielZanata)  
-🕓 Última atualização: `$(date +%d/%m/%Y)`  
