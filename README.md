@@ -16,11 +16,9 @@ Aqui você encontra o conteúdo completo das **Aulas 1 a 29**, organizadas em or
 | Aula 6 | [Aula_6.md](Aula_6.md) |
 | Aula 7 | [Aula_7.md](Aula_7.md) |
 | Aula 8 | [Aula_8.md](Aula_8.md) |
-| Aula 9 | [Aula_9.md](Aula_9.md) |
-| Aula 10 | [Aula_10.md](Aula_10.md) |
+| Aula 9-10 | [Aula_9-10.md](Aula_9-10.md) |
 | Aula 11 | [Aula_11.md](Aula_11.md) |
-| Aula 12 | [Aula_12.md](Aula_12.md) |
-| Aula 13 | [Aula_13.md](Aula_13.md) |
+| Aula 12-13 | [Aula_12-13.md](Aula_12-13.md) |
 | Aula 14 | [Aula_14.md](Aula_14.md) |
 | Aula 15 | [Aula_15.md](Aula_15.md) |
 | Aula 16 | [Aula_16.md](Aula_16.md) |
